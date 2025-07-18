@@ -153,4 +153,4 @@ I deployed these changes to Netlify next.
 
 ---
 
-Thanks for reading!
+Thank you for reading!
